@@ -1,0 +1,22 @@
+# RAG
+pymupdf
+pdfplumber
+langchain-text-splitters
+sentence-transformers
+chromadb
+numpy
+
+# LLM
+google-generativeai
+
+# FastAPI
+fastapi
+uvicorn
+python-dotenv
+
+# MongoDB
+pymongo
+
+# Authentication
+passlib[bcrypt]
+python-multipart
