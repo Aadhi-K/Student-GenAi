@@ -4,19 +4,22 @@
 An AI-powered student assistant built with React, FastAPI,
 RAG, ChromaDB, and Google Gemini.
 
-## Application Screenshots
+## 📸 Application Screenshots
 
-### Dashboard
-![Student Helper Dashboard](screenshots/dashboard.png)
+### 1. Login Page
+![Login Page](Page_Images/login_Page.png)
 
-### PDF Upload
-![PDF Upload](screenshots/pdf-upload.png)
+### 2. Dashboard
+![Student Helper Dashboard](Page_Images/dashboard.png)
 
-### RAG Chatbot
-![RAG Chatbot](screenshots/rag-chatbot.png)
+### 3. PDF Upload
+![PDF Upload](Page_Images/pdf-upload.png)
 
-### Study Planner
-![Study Planner](screenshots/study-planner.png)
+### 4. RAG Chatbot
+![RAG Chatbot](Page_Images/rag-chatbot.png)
 
-### Mock Test
-![Mock Test](screenshots/mock-test.png)
+### 5. Study Planner
+![Study Planner](Page_Images/study-planner.png)
+
+### 6. Mock Test
+![Mock Test](Page_Images/mock-test.png)
